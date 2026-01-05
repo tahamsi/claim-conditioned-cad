@@ -1,0 +1,107 @@
+{"id": "tc_2", "claim": "\"Apollo 11\" is a comic book series by Dave Sim.", "citation": "[680:42]", "entailment_score": 0.8, "regenerated": false}
+{"id": "tc_2", "claim": "[662:28] Apollo 11", "citation": "[662:26]", "entailment_score": 0.3333333333333333, "regenerated": false}
+{"id": "tc_2", "claim": "The capsule communicator (CAPCOM) was an astronaut at the Mission Control Center in Houston, Texas, who was the only person who communicated directly with the flight crew.", "citation": "[663:17]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_2", "claim": "For Apollo 11, the CAPCOMs were: Charles Duke, Ronald Evans, Bruce McCandless II, James Lovell,", "citation": "[662:26]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[970:11] Asteroid", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Symbols", "citation": "[791:21]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[934:1] Abscess", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Signs and symptoms", "citation": "[1032:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[992:14] Aries (constellation)", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Stars", "citation": "[798:14]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[935:1] Abscess", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Signs and symptoms", "citation": "[1032:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[993:14] Aries (constellation)", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Stars", "citation": "[798:14]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[936:1] Abscess", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Signs and symptoms", "citation": "[1032:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[994:14] Aries (constellation)", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Stars", "citation": "[798:14]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[937:1] Abscess", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Signs and symptoms", "citation": "[1032:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[995:14] Aries (constellation)", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_13", "claim": "Stars", "citation": "[798:14]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_13", "claim": "[938", "citation": "[662:35]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_49", "claim": "[880:120] ABBA", "citation": "[880:46]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_49", "claim": "In Australia, ABBA recorded \"Dancing Queen\", which reached number one in April 1977, and was the first single, \"Dancing Queen\", not only topping the charts in loyal markets like the UK, Germany, Sweden, several other western and northern European countries, plus number two in the UK", "citation": "[880:48]", "entailment_score": 0.8611111111111112, "regenerated": false}
+{"id": "tc_49", "claim": "and", "citation": "[880:46]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_76", "claim": "[612:12] Adelaide", "citation": "[1148:62]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_76", "claim": "Adelaide is the largest U.S.", "citation": "[624:1]", "entailment_score": 0.8, "regenerated": false}
+{"id": "tc_76", "claim": "state by area, comprising more total area than the next three largest states of Texas, California and Montana combined and is the seventh-largest subnational division in the world.", "citation": "[624:1]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_76", "claim": "It is the third-least populous and most sparsely populated U.S.", "citation": "[624:1]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_76", "claim": "state, but with a population of 736,081 as of 2020, is the continent's most populous territory located mostly north of the 60th parallel, with more than quadruple the combined populations of Northern Canada and Greenland.", "citation": "[624:1]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_76", "claim": "The state capital of Juneau is the second-largest city in the", "citation": "[624:1]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_79", "claim": "[1014:17] Alaska", "citation": "[624:170]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_79", "claim": "Alaska is a state of alcohol control state, meaning the state government holds a monopoly on the sale of alcohol, and there are many dry municipalities in counties which permit alcohol sales.", "citation": "[303:152]", "entailment_score": 0.9629629629629629, "regenerated": false}
+{"id": "tc_79", "claim": "[1014:18] Alaska", "citation": "[624:170]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_79", "claim": "Alaska is an alcoholic beverage control state, meaning the state government holds a monopoly on the sale of alcohol, and there are many dry municipalities in counties which permit alcohol sales.", "citation": "[303:152]", "entailment_score": 0.9666666666666667, "regenerated": false}
+{"id": "tc_79", "claim": "[1014:19] Alaska", "citation": "[624:170]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_79", "claim": "Alaska is an alcoholic beverage control state, meaning the state government holds a monopoly on the sale of alcohol, and there are many dry municipalities in counties", "citation": "[303:152]", "entailment_score": 0.9615384615384616, "regenerated": false}
+{"id": "tc_133", "claim": "[655:35] Abacus", "citation": "[655:35]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_133", "claim": "In Japan and Korea, the abacus is used as a 3:5 abacus called \u5929\u4e09\u7b97\u76e4, which is now in the Ize Rongji collection of Shansi Village in Yamagata City.", "citation": "[655:35]", "entailment_score": 0.9565217391304348, "regenerated": false}
+{"id": "tc_133", "claim": "Japan also used a 2:5 type abacus.", "citation": "[655:35]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_133", "claim": "[655:35] Abacus", "citation": "[655:35]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_133", "claim": "In Japan and Korea, the abacus is used as a 3:5 abacus called \u5929\u4e09\u7b97\u76e4, which is now in the Ize Rongji collection of Shansi Village in Yamagata City.", "citation": "[655:35]", "entailment_score": 0.9565217391304348, "regenerated": false}
+{"id": "tc_133", "claim": "Japan", "citation": "[800:38]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_137", "claim": "[594:14] Augustin-Jean Fresnel", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "Second memoir (1822\u201326)", "citation": "[1141:133]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_137", "claim": "Answer:", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "[595:15] Augustin-Jean Fresnel", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "Second memoir (1822\u201326)", "citation": "[1141:133]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_137", "claim": "Answer:", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "[596:16] Augustin-Jean Fresnel", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "Second memoir (1822\u201326)", "citation": "[1141:133]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_137", "claim": "Answer:", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "[597:17] Augustin-Jean Fresnel", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "Second memoir (1822\u201326)", "citation": "[1141:133]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_137", "claim": "Answer:", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "[598:18] Augustin-Jean Fresnel", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "Second memoir (1822\u201326)", "citation": "[1141:133]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_137", "claim": "Answer:", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_137", "claim": "[599:19] Augustin", "citation": "[595:76]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_149", "claim": "[1011:11] ABBA", "citation": "[880:6]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_149", "claim": "1958\u20131970: Before ABBA", "citation": "[880:6]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_149", "claim": "[875:4] Analog Brothers", "citation": "[1004:33]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_149", "claim": "Discography 2000 - 2005 A.D.", "citation": "[875:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_149", "claim": "(single), Ground Control Records/Nu Gruv 2000 - Pimp to Eat (LP), Ground Control Records/Mello Music Group 2014 - Slang Banging (Return to Analog), Junkadelic Music", "citation": "[875:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_149", "claim": "[1166:26] Afro Celt Sound System", "citation": "[1004:33]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_149", "claim": "Real World Records page", "citation": "[1166:26]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_149", "claim": "Answer:", "citation": "[1004:33]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_149", "claim": "[1011:11] ABBA", "citation": "[880:6]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_149", "claim": "1958\u20131970: Before ABBA", "citation": "[880:6]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_149", "claim": "[875:4] Analog Brothers", "citation": "[1004:33]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_149", "claim": "Discography", "citation": "[875:4]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_162", "claim": "[785:10] Alfred Korzybski", "citation": "[784:10]", "entailment_score": 0.3333333333333333, "regenerated": false}
+{"id": "tc_162", "claim": "Anecdotes Two days later, Korzybski was giving a lecture to a group of students, and he interrupted the lesson suddenly in order to retrieve a packet of biscuits, wrapped in white paper, from his briefcase.", "citation": "[784:10]", "entailment_score": 0.9333333333333333, "regenerated": false}
+{"id": "tc_162", "claim": "He muttered that he just had to eat something, and he asked the students on the seats in the front row if they would also like a biscuit.", "citation": "[784:10]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_162", "claim": "A few students took a biscuit.", "citation": "[784:10]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_162", "claim": "\"Nice biscuit, don't you think,\" said Korzybski, while he took a second one.", "citation": "[784:10]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_162", "claim": "The students were chewing vigorously.", "citation": "[784:10]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_162", "claim": "Then", "citation": "[784:10]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_172", "claim": "[903:11] Absolute value", "citation": "[991:21]", "entailment_score": 0.6666666666666666, "regenerated": false}
+{"id": "tc_172", "claim": "Since the square root symbol represents the unique positive square root, when applied to a positive number, it follows that", "citation": "[991:8]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_172", "claim": "[904:12] Absolute value", "citation": "[991:21]", "entailment_score": 0.6666666666666666, "regenerated": false}
+{"id": "tc_172", "claim": "Since the product of any complex number and its with the same absolute value, is always the non-negative real number the absolute value of a complex number is the square root which is therefore called the absolute square or squared modulus", "citation": "[991:21]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_172", "claim": "[905:13] Acid", "citation": "[1196:11]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_172", "claim": "H3O + OH \u21cc H2O(liq) + H2O(liq)", "citation": "[656:13]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_172", "claim": "[906:14] Atom", "citation": "[1196:11]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_172", "claim": "D", "citation": "[1196:11]", "entailment_score": 0.0, "regenerated": false}
+{"id": "tc_217", "claim": "[701:0] Angola", "citation": "[701:0]", "entailment_score": 0.5, "regenerated": false}
+{"id": "tc_217", "claim": "The most populous city in the world is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 0.9090909090909091, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital of the Republic of the Congo.", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_217", "claim": "It is the capital", "citation": "[701:0]", "entailment_score": 1.0, "regenerated": false}
+{"id": "tc_219", "claim": "[1023:73] Auto racing is a sport in which the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.46153846153846156, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven by a horse, and the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.5555555555555556, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven by a horse, and the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.5555555555555556, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven by a horse, and the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.5555555555555556, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven by a horse, and the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.5555555555555556, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven by a horse, and the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.5555555555555556, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven by a horse, and the horse is driven by a horse.", "citation": "[1088:90]", "entailment_score": 0.5555555555555556, "regenerated": false}
+{"id": "tc_219", "claim": "The horse is driven", "citation": "[1088:90]", "entailment_score": 0.5, "regenerated": false}

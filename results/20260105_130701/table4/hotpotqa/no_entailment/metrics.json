@@ -1,0 +1,18 @@
+{
+  "em": 0.0,
+  "f1": 0.0,
+  "claim_f": 0.1,
+  "hall_r": 0.9,
+  "cite_p": 0.0,
+  "cite_r": 0.0,
+  "latency_sec": 16.821052300930024,
+  "regens": 0.0,
+  "avg_regens": 0.0,
+  "dataset": "hotpotqa",
+  "method": "cc_cad",
+  "mode": "open",
+  "examples": 20,
+  "alpha": 0.5,
+  "threshold": 0.75,
+  "top_k": 8
+}

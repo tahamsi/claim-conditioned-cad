@@ -1,0 +1,18 @@
+{
+  "em": 0.0,
+  "f1": 0.0037048192771084337,
+  "claim_f": 0.65,
+  "hall_r": 0.35,
+  "cite_p": 0.0,
+  "cite_r": 0.0,
+  "latency_sec": 111.62316418886185,
+  "regens": 0.75,
+  "avg_regens": 0.75,
+  "dataset": "nq",
+  "method": "cc_cad",
+  "mode": "open",
+  "examples": 20,
+  "alpha": 0.5,
+  "threshold": 0.75,
+  "top_k": 5
+}

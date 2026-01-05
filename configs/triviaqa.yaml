@@ -1,0 +1,7 @@
+dataset: triviaqa
+split: validation
+index_dir: results/wiki_index
+wiki_path: data/wiki_paragraphs.jsonl
+embed_model: intfloat/e5-small-v2
+nli_model: mock
+model_name: distilgpt2
