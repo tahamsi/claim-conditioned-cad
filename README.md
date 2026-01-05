@@ -7,6 +7,10 @@
 - Entailment verifier: `roberta-large-mnli` (configurable via `nli_model`, can be `mock`).
 - API mode: uses a stub client unless you implement `APIClient` in `cc_cad/decoding/cad.py`.
 
+## Problem Statement
+
+Standard RAG often produces fluent answers that are not fully supported by retrieved evidence. The goal of CC-CAD is to reduce hallucinations by (1) enforcing evidence-aware decoding at the token level and (2) verifying each generated claim against retrieved passages before committing it to the final answer.
+
 ## Proposed Model (Full Explanation)
 
 CC-CAD is a retrieval-augmented QA system that generates answers claim-by-claim and verifies each claim with an entailment model.
@@ -17,10 +21,6 @@ CC-CAD is a retrieval-augmented QA system that generates answers claim-by-claim 
    This biases decoding toward evidence-grounded tokens.
 3) CC-CAD: Generate one claim at a time, verify with NLI, and optionally regenerate once if unsupported. Stop if still unsupported.
 4) Citations: Select a best span from the top passage and attach `[doc_id:start-end]`.
-
-## Reinforcement Learning (RL)
-
-No RL is used in this codebase. The system relies on decoding-time control (CAD) and NLI-based verification only.
 
 ## Required Commands (End-to-End)
 
