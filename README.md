@@ -7,6 +7,21 @@
 - Entailment verifier: `roberta-large-mnli` (configurable via `nli_model`, can be `mock`).
 - API mode: uses a stub client unless you implement `APIClient` in `cc_cad/decoding/cad.py`.
 
+## Proposed Model (Full Explanation)
+
+CC-CAD is a retrieval-augmented QA system that generates answers claim-by-claim and verifies each claim with an entailment model.
+
+1) Retrieval: Embed the question with `embed_model` and retrieve top-k Wikipedia paragraphs from a FAISS index.
+2) CAD decoding: For each next token, fuse context and prior logits:
+   `logits = (1 + alpha) * logits_context - alpha * logits_prior`
+   This biases decoding toward evidence-grounded tokens.
+3) CC-CAD: Generate one claim at a time, verify with NLI, and optionally regenerate once if unsupported. Stop if still unsupported.
+4) Citations: Select a best span from the top passage and attach `[doc_id:start-end]`.
+
+## Reinforcement Learning (RL)
+
+No RL is used in this codebase. The system relies on decoding-time control (CAD) and NLI-based verification only.
+
 ## Required Commands (End-to-End)
 
 ### 1) Create environment + install dependencies
@@ -15,7 +30,7 @@
 python -m venv .venv
 source .venv/bin/activate
 pip install -U pip
-pip install torch transformers sentence-transformers faiss-cpu datasets pyyaml pandas matplotlib pytest huggingface_hub
+pip install torch transformers sentence-transformers faiss-cpu datasets pyyaml pandas matplotlib pytest huggingface_hub streamlit
 ```
 
 ### 2) Download Wikipedia paragraphs (parquet-based)
@@ -101,3 +116,26 @@ Edit `configs/*.yaml` to set:
 - `embed_model`: sentence-transformers model
 - `nli_model`: NLI model name (use `mock` for heuristic testing)
 - `model_name`: open-weight LLM
+
+## How to Use, Tune, and Test
+
+Use:
+- Run `cc_cad.runners.run_experiment` for batch experiments or `streamlit` for interactive QA.
+- Choose `--method` in {`rag`, `cad`, `cc_cad`, `rag_posthoc`} and `--mode` in {`open`, `api`}.
+
+Tune:
+- `alpha`: CAD strength (higher enforces evidence more strongly).
+- `threshold`: entailment gating threshold for claims.
+- `top_k`: number of retrieved passages.
+- `max_claims`: number of claims in CC-CAD answers.
+- `temperature` / `top_p`: generation stochasticity.
+
+Test:
+- Run unit tests with `pytest cc_cad/tests`.
+- For quick smoke tests, set `nli_model: mock` and reduce `--max_examples`.
+
+## Streamlit Web Interface
+
+```bash
+streamlit run streamlit_app.py
+```
